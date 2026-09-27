@@ -1,0 +1,18 @@
+
+# Generic
+python-dotenv
+fastapi 
+uvicorn
+streamlit
+
+# DocuChat
+langchain 
+langchain-community 
+langchain-ollama 
+langchain-text-splitters
+langchain-chroma
+pypdf
+
+langchain
+langchain-google-genai
+langsmith
